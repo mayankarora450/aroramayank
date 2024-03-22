@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Embedded System Engineer",
     bio: "I Love Electronics and Books.",
     email: "maynakarora450@gmail.com",
-    linkedin: "morethanmin",
+    linkedin: "mayank-arora-b78060131",
     github: "mayankarora450",
     instagram: "",
   },
